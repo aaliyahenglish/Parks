@@ -1,6 +1,7 @@
 # Project 5 - *Parks*
 
 Submitted by: **Aaliyah English**
+[This Project was an academic project that I really enjoyed, so I decided to put it on my personal GitHub]
 
 **Parks** 
 
